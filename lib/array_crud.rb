@@ -17,3 +17,8 @@ def add_element_to_start_of_array(array, element)
   element = "wow"
   array.unshift("wow")
 end
+
+def remove_element_from_end_of_array(array)
+  array = ["wow","1", "2", "3", "4", "arrays!"]
+  array.pop("arrays!")
+end
