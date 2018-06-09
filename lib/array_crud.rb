@@ -9,5 +9,5 @@ end
 def add_element_to_end_of_array(element, array)
   array = ["1", "2", "3", "4"]
   element = "5"
-  array.push("5")
+  array.push("arrays!")
 end
