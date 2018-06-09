@@ -31,4 +31,5 @@ end
 def retrieve_element_from_index(array, index)
   array = ["wow", "1", "2", "3", "4", "arrays"]
   index[2]
+  element = "am"
 end
